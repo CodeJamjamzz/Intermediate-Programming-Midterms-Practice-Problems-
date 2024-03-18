@@ -1,0 +1,1 @@
+void createArray(int la[], int size);

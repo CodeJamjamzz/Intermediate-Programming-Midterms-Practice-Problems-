@@ -1,0 +1,53 @@
+.head1 {
+    font-weight:bold;
+    text-align:center;
+    font-family: Arial;
+    font-size:20px;
+    color: white;
+    padding: 5px 5px;
+}
+
+
+.navbar {
+    background: #2C3333;
+    font-family: Arial;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.navdiv {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo a{
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+li a {
+    color: white;
+    font-size: 18 px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+
+button {
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 8px; width: 90px;
+}
+
+button a {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}

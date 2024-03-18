@@ -1,0 +1,13 @@
+.head{
+    color: blue;
+    background-color: pink;
+}
+
+/*p.class (specific sa usa ka class)
+
+body{
+    background-image: url('.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(100,0 ,0);
+}

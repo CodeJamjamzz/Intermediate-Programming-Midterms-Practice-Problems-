@@ -1,0 +1,127 @@
+.head {
+    color: white;
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    top: 30px;
+    left: 450px
+}
+
+p {
+    color: white;
+    position: relative;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+img {
+    height: 140px;
+    width: 150px;
+    position: relative;
+    top: 40px;
+    left: 460px
+}
+
+.sub1 {
+    color: white;
+    position: relative;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial;
+    top: -40px;
+    left: 620px
+}
+
+.Row2 {
+    position: relative;
+    top: -10px;
+    left: 460px;
+    
+}
+
+.sub2 {
+    color: white;
+    position: relative;
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Arial;
+    top: -110px;
+    left: 620px
+}
+
+.aboutme{
+  height: 220px;
+  width: 230px;
+  position: relative;
+  top: 110px;
+  left: 640px
+}
+
+.Row3 {
+    position: relative;
+    top: -370px;
+    left: 750px
+}
+
+.sub3 {
+    top: -450px;
+    left: 920px
+}
+
+.Row4 {
+    position: relative;
+    top: -420px;
+    left: 750px 
+}
+
+.sub4 {
+    top: -520px;
+    left: 920px
+}
+
+.head2 {
+    color: white;
+    position: relative;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial;
+    top: -440px;
+    left: 450px
+}
+
+.Row5 {
+    height: 180px;
+    width: 180px;
+    top: -450px;
+}
+
+.sub5 {
+    top: -460px;
+    left: 530px;
+}
+
+.Row6 {
+    height: 165px;
+    width: 180px;
+    top: -665px;
+    left: 660px;
+}
+
+.sub6 {
+    top: -670px;
+    left: 715px;
+}
+
+.Row7 {
+    height: 165px;
+    width: 180px;
+    top: -875px;
+    left: 860px;
+}
+
+.sub7 {
+    top: -880px;
+    left: 930px;
+}
